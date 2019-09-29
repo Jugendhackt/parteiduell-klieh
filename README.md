@@ -3,7 +3,7 @@
 
 ## Installation
 
-Um dieses Projekt verwenden zu können brauchst du python3.6 \((python.org)[https://www.python.org/downloads/]\) oder neuer.
+Um dieses Projekt verwenden zu können brauchst du python3.6 \([python.org](https://www.python.org/downloads/)\) oder neuer.
 
 ```bash
 $ git clone https://github.com/Jugendhackt/parteiduell-klieh.git
