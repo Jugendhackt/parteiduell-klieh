@@ -22,7 +22,8 @@ def main():
     while True:
         click.clear()
 
-        print("Wilkommen zur ParteiDuell Klieh")
+        # see https://stackoverflow.com/a/26445590 for color codes
+        print("Wilkommen zur ParteiDuell \033[31mK\033[0m\033[33ml\033[0m\033[93m\033[32mi\033[0m\033[34me\033[0m\033[35mh\033[0m")
         print("")
 
         r = requests.get("https://solver.cloud:440/list")
