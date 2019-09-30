@@ -22,7 +22,7 @@ def main():
     while True:
         click.clear()
 
-        print("Wilkommen zu ParteiDuell - Der Klieh")
+        print("Wilkommen zur ParteiDuell Klieh")
         print("")
 
         r = requests.get("https://solver.cloud:440/list")

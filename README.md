@@ -1,4 +1,4 @@
-# Die Klieh des ParteiDuell's
+# ParteiDuell Klieh
 
 [![asciicast](https://asciinema.org/a/Emp5IQv5MQKs2Is5jNUhjlvrg.svg)](https://asciinema.org/a/Emp5IQv5MQKs2Is5jNUhjlvrg)
 
